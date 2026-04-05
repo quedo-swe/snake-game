@@ -1,0 +1,29 @@
+# Build folders
+build/
+bin/
+out/
+x64/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.user
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Logs / misc
+*.log
+*.tmp
+*.cache
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
